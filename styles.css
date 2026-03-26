@@ -2,3 +2,38 @@
     box-sizing: border-box;
 }
 
+body{
+background-color: gray;
+}
+
+h1{
+    background-color: pink;
+    color:white;
+    
+}
+
+.p1{
+    color:yellow;
+}
+
+.p2{
+    color: lawngreen;
+}
+
+.p3{
+    color: aquamarine;
+}
+
+.border1{
+    background-color: white;
+    padding-bottom: 50px;
+    border: solid goldenrod 5px;
+}
+
+footer{ 
+    color:white;
+}
+
+.white{
+    color: white;
+}
